@@ -8,7 +8,7 @@ venv\Scripts\activate.bat
 pip install --upgrade pip
 pip install -r requirement.txt
 ```
-#Question 1
+# Question 1
 Draw a flowchart to write the program of this task. You may draw a flowchart by using powerpoint, then save it as a picture in .jpg or .png.  
 Answer:  
 <image src = FlowchartCalculator.jpg>  
