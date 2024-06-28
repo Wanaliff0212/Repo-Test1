@@ -9,4 +9,4 @@ pip install --upgrade pip
 pip install -r requirement.txt
 ```
 
-<img src= https://pngtree.com/freebackground/lotus-flower-jpg-pink-lotus-flower_12896001.html >
+img src= https://pngtree.com/freebackground/lotus-flower-jpg-pink-lotus-flower_12896001.html
