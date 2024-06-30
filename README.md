@@ -1,3 +1,8 @@
+<div style="text-align: center; margin: 0 auto; width: 50%;">
+    <p style="font-size: 18px;">Your centered text goes here</p>
+</div>
+
+
 # Repo-Test1
 
 This is my first repository  
